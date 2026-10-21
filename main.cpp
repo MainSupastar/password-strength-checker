@@ -4,6 +4,9 @@
 
 int main() {
     std::cout << "=== Password Strength Checker v1.1 ===\n";
+=======
+    std::cout << "=== Is Your Password Safe? ===\n";
+
     std::cout << "Enter a password: ";
 
     std::string password;
