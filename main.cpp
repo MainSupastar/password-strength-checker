@@ -3,7 +3,7 @@
 #include <string>
 
 int main() {
-    std::cout << "=== Password Strength Checker ===\n";
+    std::cout << "=== Is Your Password Safe? ===\n";
     std::cout << "Enter a password: ";
 
     std::string password;
