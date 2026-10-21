@@ -1,0 +1,5 @@
+checker
+checker.exe
+*.o
+.vscode/
+.DS_Store
